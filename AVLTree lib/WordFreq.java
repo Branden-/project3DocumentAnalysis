@@ -5,12 +5,12 @@ public class WordFreq implements Comparable {
 	private int frequency;
 	
 	public WordFreq(String key){
-		word = new StringBuilder(key);
+		word = (key == null)? null : new StringBuilder(key);
 		frequency = 0;
 	}
 	
 	public WordFreq(String key, int num){
-		word = new StringBuilder(key);
+		word = (key == null)? null : new StringBuilder(key);
 		frequency = num;
 	}
 	

@@ -5,53 +5,50 @@ public class AVLTree extends BSTree {
 		super();
 	}
 	
-	/**
-	 * Override BinaryTree insertTree
-	 */
-	public void insert(WordFreq newData){
-		root = insert(root, newData);
+	@Override
+	public void insert(String key){
+		WordFreq newData = new WordFreq(key);
+		root = this.insert(root, newData);
 	}
 	
-	/**
-	 * Override BinaryTree insert
-	 * This algorithm is inefficient, and provided from the slide
-	 */
+
 	public BinaryNode insert(BinaryNode root, WordFreq newData){
 		if (root == null){
-			return new BinaryNode(newData);
-		}
-		
-		int compareResult = root.compareTo(newData);
-		if (compareResult > 0){
-			root.left = insert(root.left, newData);
-			
-			if(getHeight(root.left) - getHeight(root.right) == 2){
-				if(root.left.compareTo(newData) > 0){
-					//System.out.println("rotateRight " + root.getData().getWord());
-					root = rotateRight(root);
-				}	
-				else{
-				//System.out.println("double left-right rotation " + root.getData().getWord());
-				root = doubleLeftRightRotation(root);
-				}
-			}
-		}
-		else if (compareResult < 0){
-			root.right = insert(root.right, newData);
-			
-			if(getHeight(root.right) - getHeight(root.left) == 2){
-				if(root.right.compareTo(newData) < 0){
-					//System.out.println("rotateLeft " + root.getData(.getWord()));
-					root = rotateLeft(root);
-				}
-				else {
-					//System.out.println("double right-left rotation " + root.getData().getWord();
-					root = doubleRightLeftRotation(root.right);
-				}
-			}
+			root = new BinaryNode(newData);
 		}
 		else {
-			root.incrementFreq(1);
+			int compareResult = root.compareTo(newData);
+			if (compareResult > 0){
+				root.left = insert(root.left, newData);
+				
+				if(getHeight(root.left) - getHeight(root.right) == 2){
+					if(root.left.compareTo(newData) > 0){
+						//System.out.println("rotateRight " + root.getData().getWord());
+						root = rotateRight(root);
+					}	
+					else{
+					//System.out.println("double left-right rotation " + root.getData().getWord());
+					root = doubleLeftRightRotation(root);
+					}
+				}
+			}
+			else if (compareResult < 0){
+				root.right = insert(root.right, newData);
+				
+				if(getHeight(root.right) - getHeight(root.left) == 2){
+					if(root.right.compareTo(newData) < 0){
+						//System.out.println("rotateLeft " + root.getData(.getWord()));
+						root = rotateLeft(root);
+					}
+					else {
+						//System.out.println("double right-left rotation " + root.getData().getWord());
+						root = doubleRightLeftRotation(root);
+					}
+				}
+			}
+			else {
+				root.incrementFreq(1);
+			}
 		}
 		root.height = Math.max(getHeight(root.left), getHeight(root.right)) + 1;
 		

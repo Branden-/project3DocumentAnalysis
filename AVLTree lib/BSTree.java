@@ -143,14 +143,14 @@ public class BSTree {
 		if (root == null){
 			return -1;
 		}
-		return Math.max(getHeight(root.left), getHeight(root.right) + 1);
+		return (Math.max(getHeight(root.left), getHeight(root.right)) + 1);
 	}
 	
 	public int Traverse(BinaryNode root){
 		if (root == null){
 			return 0;
 		}
-		System.out.print(" " + root.getData());
+		System.out.print(" " + root.getData().getWord());
 		return (Traverse(root.left) + Traverse(root.right) + 1);
 	}
 	
