@@ -14,6 +14,7 @@ public class AVLTree<E extends Comparable<? super E>> extends BinarySearchTree<E
 	public BSTNode incCount(BSTNode root, E newData){
 		if (root == null){
 			root = new BSTNode(newData);
+			size++;
 		}
 		else {
 			int compareResult = newData.compareTo(root.data);

@@ -55,7 +55,7 @@ public class BinarySearchTree<E extends Comparable<? super E>> implements
             this.data = data;
             count = 1;
             left = right = null;
-            size++;
+            //size++; Move tree size increment down in insertion function
         }
     }
 
@@ -71,6 +71,7 @@ public class BinarySearchTree<E extends Comparable<? super E>> implements
     public void incCount(E data) {
         if (overallRoot == null) {
             overallRoot = new BSTNode(data);
+            size++;
         } else {
             // traverse the tree
             BSTNode currentNode = overallRoot;

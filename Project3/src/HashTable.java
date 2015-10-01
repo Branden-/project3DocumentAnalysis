@@ -25,9 +25,9 @@ public class HashTable implements DataCounter<String> {
 			dataList = new LinkedList<DataCount<String>>();
 		}
 		
-		void addNode(String key, int newCount){
+		boolean addNode(String key, int newCount){
 			DataCount<String> newData = new DataCount<String>(key, newCount);
-			dataList.add(newData);
+			return dataList.add(newData);
 		}
 	}
 	
@@ -44,17 +44,18 @@ public class HashTable implements DataCounter<String> {
 	}
 
     /** {@inheritDoc} */
-    public DataCount<String>[] getCounts() {
+    @SuppressWarnings("unchecked")
+	public DataCount<String>[] getCounts() {
         ArrayList<DataCount<String>> aryList = new ArrayList<DataCount<String>>(dataCount);
-        DataCount<String>[] a = null;
+    	int aryIndex = 0;
     	
     	for(int i = 0; i < size; i++){
     		while(hashTable[i].dataList.isEmpty() != true){
-    			aryList.add(hashTable[i].dataList.pop());
+    			aryList.add(aryIndex, hashTable[i].dataList.pop());
+    			aryIndex++;
     		}
     	}
-
-        return aryList.toArray(a);
+        return aryList.toArray(new DataCount[dataCount]);
     }
 
     /** {@inheritDoc} */
@@ -69,7 +70,7 @@ public class HashTable implements DataCounter<String> {
 		int listPos = search(newData);
 		
 		if(listPos == -1){
-			hashTable[index].addNode(newData, 0);
+			hashTable[index].addNode(newData, 1);
 			dataCount++;
 			if(dataCount == resize_threshold){
 				resize();
@@ -96,14 +97,13 @@ public class HashTable implements DataCounter<String> {
     
     public void rehash(HashEntry[] oldTable) {
     	for (int i = 0; i < size; i++){
-    		while(hashTable[i].dataList.isEmpty() == false){
+    		while(oldTable[i].dataList.isEmpty() != true){
 				DataCount<String> newData = oldTable[i].dataList.pop();
 				int index = hash(newData.data, hashTable.length);
 				
-				hashTable[index].dataList.add(newData);
+				hashTable[index].addNode(newData.data, newData.count);
 			}
 		}
-    	oldTable = null;
     }
     
     public int search(String key){
@@ -127,7 +127,7 @@ public class HashTable implements DataCounter<String> {
 		int index = 0;
 		
 		for(int i = 0; i < key.length(); i++){
-			index = index + 7 * key.charAt(i) * i;
+			index = index + 7 * key.charAt(i) * (i + 1);
 		}
 		return (index % num);
 	}
