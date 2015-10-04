@@ -25,6 +25,8 @@ class DocCorrelator {
 		startTime2 = System.nanoTime();
 		DataCount<String>[]list2 = WordCount.countWords(file2, flag);
 		
+		measuredTime1 = endTime1 - startTime1;
+		measuredTime2 = endTime1 - startTime2;
 		WordFreq[] list1Nor = docNormalize(list1);
 		WordFreq[] list2Nor = docNormalize(list2);
 		double correlator = 0;
@@ -40,13 +42,11 @@ class DocCorrelator {
 		
 		printComparison(list1Nor, list2Nor);
 		endTime1 = endTime2 = System.nanoTime();
-		measuredTime1 = endTime1 - startTime1;
-		measuredTime2 = endTime1 - startTime2;
 		System.out.println("The correlator number: " + correlator + "(%^2)");
 		System.out.println("It took " + TimeUnit.NANOSECONDS.toSeconds(measuredTime1) + 
-				" seconds to tokenize, sort and count the words in the file " + file1);
+				" milliseconds to count the words in the file " + file1);
 		System.out.println("It took " + TimeUnit.NANOSECONDS.toSeconds(measuredTime2) + 
-				" seconds tokenize, sort and count the words in the file " + file2);
+				" milliseconds to count the words in the file " + file2);
 		return correlator;
 	}
 	

@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-
+my $startTime = time();
 while (<>) {
   s/[.,;!?*+-=\\|#\/(){}"'[\]><]/ /g;
   @line = split;
@@ -13,8 +13,13 @@ while (<>) {
   }
 }
 
+
 for $w (sort {$f = $words{$a} <=> $words{$b};
 	      $f != 0 ? -$f : ($a cmp $b)}
 	keys %words) {
   print "$words{$w} \t$w\n";
 }
+
+my $endrun = time();
+my $runTime = $endrun - $startTime;
+print "Tokenizing, sorting and printing took $runTime seconds \n";
