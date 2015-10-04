@@ -81,31 +81,11 @@ public class HashTable implements DataCounter<String> {
 		}
     }
     
-    private void resize(){
-		int newSize = size * 2;
-		resize_threshold = newSize * 5;
-		HashEntry[] oldTable = hashTable;
-		hashTable = new HashEntry[newSize];
-		
-		for(int i = 0; i < newSize; i++){
-			hashTable[i] = new HashEntry();
-		}
-		
-		rehash(oldTable);
-		size = newSize;
-	}
-    
-    public void rehash(HashEntry[] oldTable) {
-    	for (int i = 0; i < size; i++){
-    		while(oldTable[i].dataList.isEmpty() != true){
-				DataCount<String> newData = oldTable[i].dataList.pop();
-				int index = hash(newData.data, hashTable.length);
-				
-				hashTable[index].addNode(newData.data, newData.count);
-			}
-		}
-    }
-    
+    /**
+     * find a value in hash index's linked list using a key
+     * @param key the key of the value
+     * @return the position of the value in the linked list
+     */
     public int search(String key){
 		int index = hash(key, size);
 		HashEntry entry = hashTable[index];
@@ -120,6 +100,12 @@ public class HashTable implements DataCounter<String> {
 		return listPos;
 	}
 	
+	/**
+	 * hash a key and return the hashed key
+	 * @param key the value to be hashed
+	 * @param num the size of the hashtable
+	 * @return the hashed key
+	 */
 	public static int hash(String key, int num){
 		if(key == null){
 			throw new NullPointerException();
@@ -132,6 +118,9 @@ public class HashTable implements DataCounter<String> {
 		return (index % num);
 	}
 	
+	/**
+	 * print all the elements of the hash table
+	 */
 	public void printHashTable(){
 		for (int i = 0; i < size; i++){
 			for (int ii = 0; ii < hashTable[i].dataList.size(); ii++){
@@ -139,6 +128,40 @@ public class HashTable implements DataCounter<String> {
 								   hashTable[i].dataList.get(ii).count);
 			}
 		}
+	}
+
+	/**
+	 * go through an old hashtable and place into a new hash table
+	 * by re-hashing element by element
+	 * @param oldTable
+	 */
+	public void rehash(HashEntry[] oldTable) {
+		for (int i = 0; i < size; i++){
+			while(oldTable[i].dataList.isEmpty() != true){
+				DataCount<String> newData = oldTable[i].dataList.pop();
+				int index = hash(newData.data, hashTable.length);
+				
+				hashTable[index].addNode(newData.data, newData.count);
+			}
+		}
+	}
+
+	/**
+	 * method to resize the hash table when it is filled
+	 * 
+	 */
+	private void resize(){
+		int newSize = size * 2;
+		resize_threshold = newSize * 5;
+		HashEntry[] oldTable = hashTable;
+		hashTable = new HashEntry[newSize];
+		
+		for(int i = 0; i < newSize; i++){
+			hashTable[i] = new HashEntry();
+		}
+		
+		rehash(oldTable);
+		size = newSize;
 	}
 
 }

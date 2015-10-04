@@ -82,7 +82,9 @@ public class WordCount {
 
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.err.println("Usage: filename of document to analyze");
+        	System.err.println("Incorrect number of arguments");
+            System.err.println("Usage: ");
+            System.err.println("java WordCount [FILENAME]  -[OPTION]");
             System.exit(1);
         }
         

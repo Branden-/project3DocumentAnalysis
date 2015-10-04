@@ -1,557 +1,3 @@
-
-
-This etext is a typo-corrected version of Shakespeare's Hamlet,
-
-Project Gutenberg file 1ws2610.txt.
-
-
-
-This Etext file is presented by Project Gutenberg, in
-
-cooperation with World Library, Inc., from their Library of the
-
-Future and Shakespeare CDROMS.  Project Gutenberg often releases
-
-Etexts that are NOT placed in the Public Domain!!
-
-
-
-*This Etext has certain copyright implications you should read!*
-
-
-
-<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
-
-SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
-
-PROVIDED BY PROJECT GUTENBERG WITH PERMISSION.  ELECTRONIC AND
-
-MACHINE READABLE COPIES MAY BE DISTRIBUTED SO LONG AS SUCH COPIES
-
-(1) ARE FOR YOUR OR OTHERS PERSONAL USE ONLY, AND (2) ARE NOT
-
-DISTRIBUTED OR USED COMMERCIALLY.  PROHIBITED COMMERCIAL
-
-DISTRIBUTION INCLUDES BY ANY SERVICE THAT CHARGES FOR DOWNLOAD
-
-TIME OR FOR MEMBERSHIP.>>
-
-
-
-*Project Gutenberg is proud to cooperate with The World Library*
-
-in the presentation of The Complete Works of William Shakespeare
-
-for your reading for education and entertainment.  HOWEVER, THIS
-
-IS NEITHER SHAREWARE NOR PUBLIC DOMAIN. . .AND UNDER THE LIBRARY
-
-OF THE FUTURE CONDITIONS OF THIS PRESENTATION. . .NO CHARGES MAY
-
-BE MADE FOR *ANY* ACCESS TO THIS MATERIAL.  YOU ARE ENCOURAGED!!
-
-TO GIVE IT AWAY TO ANYONE YOU LIKE, BUT NO CHARGES ARE ALLOWED!!
-
-
-
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-
-
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-
-
-
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-
-
-Information on contacting Project Gutenberg to get Etexts, and
-
-further information is included below.  We need your donations.
-
-
-
-
-
-The Complete Works of William Shakespeare
-
-The Tragedy of Hamlet, Prince of Denmark
-
-
-
-June, 1999 [Etext #1787]
-
-
-
-
-
-The Library of the Future Complete Works of William Shakespeare
-
-Library of the Future is a TradeMark (TM) of World Library Inc.
-
-******This file should be named 1ws2611.txt or 1ws2611.zip*****
-
-
-
-Corrected EDITIONS of our etexts get a new NUMBER, 1ws2612.txt
-
-VERSIONS based on separate sources get new NUMBER, 2ws2610.txt
-
-
-
-
-
-The official release date of all Project Gutenberg Etexts is at
-
-Midnight, Central Time, of the last day of the stated month.  A
-
-preliminary version may often be posted for suggestion, comment
-
-and editing by those who wish to do so.  To be sure you have an
-
-up to date first edition [xxxxx10x.xxx] please check file sizes
-
-in the first week of the next month.
-
-
-
-
-
-Information about Project Gutenberg (one page)
-
-
-
-We produce about two million dollars for each hour we work.  The
-
-fifty hours is one conservative estimate for how long it we take
-
-to get any etext selected, entered, proofread, edited, copyright
-
-searched and analyzed, the copyright letters written, etc.  This
-
-projected audience is one hundred million readers.  If our value
-
-per text is nominally estimated at one dollar, then we produce 2
-
-million dollars per hour this year we, will have to do four text
-
-files per month:  thus upping our productivity from one million.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
-
-This is ten thousand titles each to one hundred million readers,
-
-which is 10% of the expected number of computer users by the end
-
-of the year 2001.
-
-
-
-We need your donations more than ever!
-
-
-
-All donations should be made to "Project Gutenberg/CMU", and are
-
-tax deductible to the extent allowable by law ("CMU" is Carnegie
-
-Mellon University).
-
-
-
-Please mail to:
-
-
-
-Project Gutenberg
-
-P. O. Box  2782
-
-Champaign, IL 61825
-
-
-
-You can visit our web site at promo.net for complete information
-
-about Project Gutenberg.
-
-
-
-When all other else fails try our Executive Director:
-
-dircompg@pobox.com or hart@pobox.com
-
-
-
-******
-
-
-
-**Information prepared by the Project Gutenberg legal advisor**
-
-
-
-
-
-***** SMALL PRINT! for COMPLETE SHAKESPEARE *****
-
-
-
-THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
-
-SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC.,
-
-AND IS PROVIDED BY PROJECT GUTENBERG ETEXT OF
-
-CARNEGIE MELLON UNIVERSITY WITH PERMISSION.
-
-
-
-Since unlike many other Project Gutenberg-tm etexts, this etext
-
-is copyright protected, and since the materials and methods you
-
-use will effect the Project's reputation, your right to copy and
-
-distribute it is limited by the copyright and other laws, and by
-
-the conditions of this "Small Print!" statement.
-
-
-
-1.  LICENSE
-
-
-
-  A) YOU MAY (AND ARE ENCOURAGED) TO DISTRIBUTE ELECTRONIC AND
-
-MACHINE READABLE COPIES OF THIS ETEXT, SO LONG AS SUCH COPIES
-
-(1) ARE FOR YOUR OR OTHERS PERSONAL USE ONLY, AND (2) ARE NOT
-
-DISTRIBUTED OR USED COMMERCIALLY.  PROHIBITED COMMERCIAL
-
-DISTRIBUTION INCLUDES BY ANY SERVICE THAT CHARGES FOR DOWNLOAD
-
-TIME OR FOR MEMBERSHIP.
-
-
-
-  B) This license is subject to the conditions that you honor
-
-the refund and replacement provisions of this "small print!"
-
-statement; and that you distribute exact copies of this etext,
-
-including this Small Print statement.  Such copies can be
-
-compressed or any proprietary form (including any form resulting
-
-from word processing or hypertext software), so long as
-
-*EITHER*:
-
-
-
-    (1) The etext, when displayed, is clearly readable, and does
-
-  *not* contain characters other than those intended by the
-
-  author of the work, although tilde (~), asterisk (*) and
-
-  underline (_) characters may be used to convey punctuation
-
-  intended by the author, and additional characters may be used
-
-  to indicate hypertext links; OR
-
-
-
-    (2) The etext is readily convertible by the reader at no
-
-  expense into plain ASCII, EBCDIC or equivalent form by the
-
-  program that displays the etext (as is the case, for instance,
-
-  with most word processors); OR
-
-
-
-    (3) You provide or agree to provide on request at no
-
-  additional cost, fee or expense, a copy of the etext in plain
-
-  ASCII.
-
-
-
-2.  LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-
-
-
-This etext may contain a "Defect" in the form of incomplete,
-
-inaccurate or corrupt data, transcription errors, a copyright or
-
-other infringement, a defective or damaged disk, computer virus,
-
-or codes that damage or cannot be read by your equipment.  But
-
-for the "Right of Replacement or Refund" described below, the
-
-Project (and any other party you may receive this etext from as
-
-a PROJECT GUTENBERG-tm etext) disclaims all liability to you for
-
-damages, costs and expenses, including legal fees, and YOU HAVE
-
-NO REMEDIES FOR NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR
-
-BREACH OF WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO
-
-INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF
-
-YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
-
-
-
-If you discover a Defect in this etext within 90 days of receiv-
-
-ing it, you can receive a refund of the money (if any) you paid
-
-for it by sending an explanatory note within that time to the
-
-person you received it from.  If you received it on a physical
-
-medium, you must return it with your note, and such person may
-
-choose to alternatively give you a replacement copy.  If you
-
-received it electronically, such person may choose to
-
-alternatively give you a second opportunity to receive it
-
-electronically.
-
-
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-
-PARTICULAR PURPOSE.  Some states do not allow disclaimers of
-
-implied warranties or the exclusion or limitation of consequen-
-
-tial damages, so the above disclaimers and exclusions may not
-
-apply to you, and you may have other legal rights.
-
-
-
-3.  INDEMNITY: You will indemnify and hold the Project, its
-
-directors, officers, members and agents harmless from all lia-
-
-bility, cost and expense, including legal fees, that arise
-
-directly or indirectly from any of the following that you do or
-
-cause: [A] distribution of this etext, [B] alteration,
-
-modification, or addition to the etext, or [C] any Defect.
-
-
-
-4.  WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-
-Project Gutenberg is dedicated to increasing the number of
-
-public domain and licensed works that can be freely distributed
-
-in machine readable form.  The Project gratefully accepts
-
-contributions in money, time, scanning machines, OCR software,
-
-public domain etexts, royalty free copyright licenses, and
-
-whatever else you can think of.  Money should be paid to "Pro-
-
-ject Gutenberg Association / Carnegie Mellon University".
-
-
-
-WRITE TO US! We can be reached at:
-
-     Internet: hart@pobox.com
-
-        Mail:  Prof. Michael Hart
-
-               P.O. Box 2782
-
-               Champaign, IL 61825
-
-
-
-This "Small Print!" by Charles B. Kramer, Attorney
-
-Internet (72600.2026@compuserve.com); TEL: (212-254-5093)
-
-****   SMALL PRINT! FOR __ COMPLETE SHAKESPEARE ****
-
-["Small Print" V.12.08.93]
-
-
-
-<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
-
-SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
-
-PROVIDED BY PROJECT GUTENBERG ETEXT OF CARNEGIE MELLON UNIVERSITY
-
-WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
-
-DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
-
-PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
-
-COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
-
-SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
-
-
-
-
-
-
-
-
-1604
-
-
-
-
-
-THE TRAGEDY OF HAMLET, PRINCE OF DENMARK
-
-
-
-
-
-by William Shakespeare
-
-
-
-
-
-
-
-Dramatis Personae
-
-
-
-  Claudius, King of Denmark.
-
-  Marcellus, Officer.
-
-  Hamlet, son to the former, and nephew to the present king.
-
-  Polonius, Lord Chamberlain.
-
-  Horatio, friend to Hamlet.
-
-  Laertes, son to Polonius.
-
-  Voltemand, courtier.
-
-  Cornelius, courtier.
-
-  Rosencrantz, courtier.
-
-  Guildenstern, courtier.
-
-  Osric, courtier.
-
-  A Gentleman, courtier.
-
-  A Priest.
-
-  Marcellus, officer.
-
-  Bernardo, officer.
-
-  Francisco, a soldier
-
-  Reynaldo, servant to Polonius.
-
-  Players.
-
-  Two Clowns, gravediggers.
-
-  Fortinbras, Prince of Norway.  
-
-  A Norwegian Captain.
-
-  English Ambassadors.
-
-
-
-  Gertrude, Queen of Denmark, mother to Hamlet.
-
-  Ophelia, daughter to Polonius.
-
-
-
-  Ghost of Hamlet's Father.
-
-
-
-  Lords, Ladies, Officers, Soldiers, Sailors, Messengers, 
-
-Attendants.
-
-
-
-
-
-
-
-
-
-<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
-
-SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
-
-PROVIDED BY PROJECT GUTENBERG ETEXT OF CARNEGIE MELLON UNIVERSITY
-
-WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
-
-DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
-
-PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
-
-COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
-
-SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
-
-
-
-
 SCENE.- Elsinore.
 
 
@@ -600,7 +46,7 @@ at his post; then] Bernardo, [who approaches him].
 
 
 
-                    Enter Horatio and Marcellus.  
+                    Enter Horatio and Marcellus.
 
 
 
@@ -640,7 +86,7 @@ at his post; then] Bernardo, [who approaches him].
 
     Touching this dreaded sight, twice seen of us.
 
-    Therefore I have entreated him along,  
+    Therefore I have entreated him along,
 
     With us to watch the minutes of this night,
 
@@ -680,7 +126,7 @@ at his post; then] Bernardo, [who approaches him].
 
   Mar. Peace! break thee off! Look where it comes again!
 
-  Ber. In the same figure, like the King that's dead.  
+  Ber. In the same figure, like the King that's dead.
 
   Mar. Thou art a scholar; speak to it, Horatio.
 
@@ -720,7 +166,7 @@ at his post; then] Bernardo, [who approaches him].
 
     Without the sensible and true avouch
 
-    Of mine own eyes.  
+    Of mine own eyes.
 
   Mar. Is it not like the King?
 
@@ -760,7 +206,7 @@ at his post; then] Bernardo, [who approaches him].
 
     Does not divide the Sunday from the week.
 
-    What might be toward, that this sweaty haste  
+    What might be toward, that this sweaty haste
 
     Doth make the night joint-labourer with the day?
 
@@ -800,7 +246,7 @@ at his post; then] Bernardo, [who approaches him].
 
     His fell to Hamlet. Now, sir, young Fortinbras,
 
-    Of unimproved mettle hot and full,  
+    Of unimproved mettle hot and full,
 
     Hath in the skirts of Norway, here and there,
 
@@ -840,7 +286,7 @@ at his post; then] Bernardo, [who approaches him].
 
     The graves stood tenantless, and the sheeted dead
 
-    Did squeak and gibber in the Roman streets;  
+    Did squeak and gibber in the Roman streets;
 
     As stars with trains of fire, and dews of blood,
 
@@ -880,7 +326,7 @@ at his post; then] Bernardo, [who approaches him].
 
     That may to thee do ease, and, race to me,
 
-    Speak to me.  
+    Speak to me.
 
     If thou art privy to thy country's fate,
 
@@ -920,7 +366,7 @@ at his post; then] Bernardo, [who approaches him].
 
   Ber. It was about to speak, when the cock crew.
 
-  Hor. And then it started, like a guilty thing  
+  Hor. And then it started, like a guilty thing
 
     Upon a fearful summons. I have heard
 
@@ -960,7 +406,7 @@ at his post; then] Bernardo, [who approaches him].
 
     Walks o'er the dew of yon high eastward hill.
 
-    Break we our watch up; and by my advice  
+    Break we our watch up; and by my advice
 
     Let us impart what we have seen to-night
 
@@ -1028,7 +474,7 @@ Lords Attendant.
 
     Taken to wife; nor have we herein barr'd
 
-    Your better wisdoms, which have freely gone  
+    Your better wisdoms, which have freely gone
 
     With this affair along. For all, our thanks.
 
@@ -1068,7 +514,7 @@ Lords Attendant.
 
     You, good Cornelius, and you, Voltemand,
 
-    For bearers of this greeting to old Norway,  
+    For bearers of this greeting to old Norway,
 
     Giving to you no further personal power
 
@@ -1108,7 +554,7 @@ Lords Attendant.
 
     From whence though willingly I came to Denmark
 
-    To show my duty in your coronation,  
+    To show my duty in your coronation,
 
     Yet now I must confess, that duty done,
 
@@ -1148,7 +594,7 @@ Lords Attendant.
 
     Thou know'st 'tis common. All that lives must die,
 
-    Passing through nature to eternity.  
+    Passing through nature to eternity.
 
   Ham. Ay, madam, it is common.
 
@@ -1188,7 +634,7 @@ Lords Attendant.
 
     In filial obligation for some term
 
-    To do obsequious sorrow. But to persever  
+    To do obsequious sorrow. But to persever
 
     In obstinate condolement is a course
 
@@ -1228,7 +674,7 @@ Lords Attendant.
 
     Than that which dearest father bears his son
 
-    Do I impart toward you. For your intent  
+    Do I impart toward you. For your intent
 
     In going back to school in Wittenberg,
 
@@ -1268,7 +714,7 @@ Lords Attendant.
 
     Thaw, and resolve itself into a dew!
 
-    Or that the Everlasting had not fix'd  
+    Or that the Everlasting had not fix'd
 
     His canon 'gainst self-slaughter! O God! God!
 
@@ -1308,7 +754,7 @@ Lords Attendant.
 
     (O God! a beast that wants discourse of reason
 
-    Would have mourn'd longer) married with my uncle;  
+    Would have mourn'd longer) married with my uncle;
 
     My father's brother, but no more like my father
 
@@ -1348,7 +794,7 @@ Lords Attendant.
 
   Mar. My good lord!
 
-  Ham. I am very glad to see you.- [To Bernardo] Good even, sir.- 
+  Ham. I am very glad to see you.- [To Bernardo] Good even, sir.-
 
 
 
@@ -1390,7 +836,7 @@ Lords Attendant.
 
   Ham. In my mind's eye, Horatio.
 
-  Hor. I saw him once. He was a goodly king.  
+  Hor. I saw him once. He was a goodly king.
 
   Ham. He was a man, take him for all in all.
 
@@ -1430,7 +876,7 @@ Lords Attendant.
 
     By their oppress'd and fear-surprised eyes,
 
-    Within his truncheon's length; whilst they distill'd  
+    Within his truncheon's length; whilst they distill'd
 
     Almost to jelly with the act of fear,
 
@@ -1470,7 +916,7 @@ Lords Attendant.
 
   Ham. 'Tis very strange.
 
-  Hor. As I do live, my honour'd lord, 'tis true;  
+  Hor. As I do live, my honour'd lord, 'tis true;
 
     And we did think it writ down in our duty
 
@@ -1510,7 +956,7 @@ Lords Attendant.
 
   Hor. It would have much amaz'd you.
 
-  Ham. Very like, very like. Stay'd it long?  
+  Ham. Very like, very like. Stay'd it long?
 
   Hor. While one with moderate haste might tell a hundred.
 
@@ -1550,7 +996,7 @@ Lords Attendant.
 
     I'll visit you.
 
-  All. Our duty to your honour.  
+  All. Our duty to your honour.
 
   Ham. Your loves, as mine to you. Farewell.
 
@@ -1616,7 +1062,7 @@ Enter Laertes and Ophelia.
 
     The inward service of the mind and soul
 
-    Grows wide withal. Perhaps he loves you now,  
+    Grows wide withal. Perhaps he loves you now,
 
     And now no soil nor cautel doth besmirch
 
@@ -1656,7 +1102,7 @@ Enter Laertes and Ophelia.
 
     Fear it, Ophelia, fear it, my dear sister,
 
-    And keep you in the rear of your affection,  
+    And keep you in the rear of your affection,
 
     Out of the shot and danger of desire.
 
@@ -1696,7 +1142,7 @@ Enter Laertes and Ophelia.
 
 
 
-                       Enter Polonius.  
+                       Enter Polonius.
 
 
 
@@ -1736,7 +1182,7 @@ Enter Laertes and Ophelia.
 
     Take each man's censure, but reserve thy judgment.
 
-    Costly thy habit as thy purse can buy,  
+    Costly thy habit as thy purse can buy,
 
     But not express'd in fancy; rich, not gaudy;
 
@@ -1776,7 +1222,7 @@ Enter Laertes and Ophelia.
 
   Pol. What is't, Ophelia, he hath said to you?
 
-  Oph. So please you, something touching the Lord Hamlet.  
+  Oph. So please you, something touching the Lord Hamlet.
 
   Pol. Marry, well bethought!
 
@@ -1816,7 +1262,7 @@ Enter Laertes and Ophelia.
 
     Or (not to crack the wind of the poor phrase,
 
-    Running it thus) you'll tender me a fool.  
+    Running it thus) you'll tender me a fool.
 
   Oph. My lord, he hath importun'd me with love
 
@@ -1856,7 +1302,7 @@ Enter Laertes and Ophelia.
 
     Not of that dye which their investments show,
 
-    But mere implorators of unholy suits,  
+    But mere implorators of unholy suits,
 
     Breathing like sanctified and pious bawds,
 
@@ -1924,7 +1370,7 @@ Enter Hamlet, Horatio, and Marcellus.
 
   Ham. Ay, marry, is't;
 
-    But to my mind, though I am native here  
+    But to my mind, though I am native here
 
     And to the manner born, it is a custom
 
@@ -1964,7 +1410,7 @@ Enter Hamlet, Horatio, and Marcellus.
 
     Their virtues else- be they as pure as grace,
 
-    As infinite as man may undergo-  
+    As infinite as man may undergo-
 
     Shall in the general censure take corruption
 
@@ -2004,7 +1450,7 @@ Enter Hamlet, Horatio, and Marcellus.
 
     Hath op'd his ponderous and marble jaws
 
-    To cast thee up again. What may this mean  
+    To cast thee up again. What may this mean
 
     That thou, dead corse, again in complete steel,
 
@@ -2044,7 +1490,7 @@ Enter Hamlet, Horatio, and Marcellus.
 
     And for my soul, what can it do to that,
 
-    Being a thing immortal as itself?  
+    Being a thing immortal as itself?
 
     It waves me forth again. I'll follow it.
 
@@ -2084,7 +1530,7 @@ Enter Hamlet, Horatio, and Marcellus.
 
     As hardy as the Nemean lion's nerve.
 
-                                                [Ghost beckons.] 
+                                                [Ghost beckons.]
 
 
 
@@ -2160,7 +1606,7 @@ Enter Ghost and Hamlet.
 
     Till the foul crimes done in my days of nature
 
-    Are burnt and purg'd away. But that I am forbid  
+    Are burnt and purg'd away. But that I am forbid
 
     To tell the secrets of my prison house,
 
@@ -2200,7 +1646,7 @@ Enter Ghost and Hamlet.
 
   Ghost. I find thee apt;
 
-    And duller shouldst thou be than the fat weed  
+    And duller shouldst thou be than the fat weed
 
     That rots itself in ease on Lethe wharf,
 
@@ -2240,7 +1686,7 @@ Enter Ghost and Hamlet.
 
     I made to her in marriage, and to decline
 
-    Upon a wretch whose natural gifts were poor  
+    Upon a wretch whose natural gifts were poor
 
     To those of mine!
 
@@ -2280,7 +1726,7 @@ Enter Ghost and Hamlet.
 
     The thin and wholesome blood. So did it mine;
 
-    And a most instant tetter bark'd about,  
+    And a most instant tetter bark'd about,
 
     Most lazar-like, with vile and loathsome crust
 
@@ -2320,7 +1766,7 @@ Enter Ghost and Hamlet.
 
     And gins to pale his uneffectual fire.
 
-    Adieu, adieu, adieu! Remember me.                      Exit. 
+    Adieu, adieu, adieu! Remember me.                      Exit.
 
 
 
@@ -2362,7 +1808,7 @@ Enter Ghost and Hamlet.
 
     So, uncle, there you are. Now to my word:
 
-    It is 'Adieu, adieu! Remember me.'  
+    It is 'Adieu, adieu! Remember me.'
 
     I have sworn't.
 
@@ -2402,7 +1848,7 @@ Enter Ghost and Hamlet.
 
     But you'll be secret?
 
-  Both. Ay, by heaven, my lord.  
+  Both. Ay, by heaven, my lord.
 
   Ham. There's neer a villain dwelling in all Denmark
 
@@ -2442,7 +1888,7 @@ Enter Ghost and Hamlet.
 
     For your desire to know what is between us,
 
-    O'ermaster't as you may. And now, good friends,  
+    O'ermaster't as you may. And now, good friends,
 
     As you are friends, scholars, and soldiers,
 
@@ -2482,7 +1928,7 @@ Enter Ghost and Hamlet.
 
     Consent to swear.
 
-  Hor. Propose the oath, my lord.  
+  Hor. Propose the oath, my lord.
 
   Ham. Never to speak of this that you have seen.
 
@@ -2522,7 +1968,7 @@ Enter Ghost and Hamlet.
 
     (As I perchance hereafter shall think meet
 
-    To put an antic disposition on),  
+    To put an antic disposition on),
 
     That you, at such times seeing me, never shall,
 
@@ -2562,7 +2008,7 @@ Enter Ghost and Hamlet.
 
     That ever I was born to set it right!
 
-    Nay, come, let's go together.  
+    Nay, come, let's go together.
 
                                                          Exeunt.
 
@@ -2638,7 +2084,7 @@ Enter Polonius and Reynaldo.
 
     And in part him.' Do you mark this, Reynaldo?
 
-  Rey. Ay, very well, my lord.  
+  Rey. Ay, very well, my lord.
 
   Pol. 'And in part him, but,' you may say, 'not well.
 
@@ -2678,7 +2124,7 @@ Enter Polonius and Reynaldo.
 
     A savageness in unreclaimed blood,
 
-    Of general assault.  
+    Of general assault.
 
   Rey. But, my good lord-
 
@@ -2720,7 +2166,7 @@ say?
 
     By the mass, I was about to say something! Where did I leave?
 
-  Rey. At 'closes in the consequence,' at 'friend or so,' and  
+  Rey. At 'closes in the consequence,' at 'friend or so,' and
 
     gentleman.'
 
@@ -2760,7 +2206,7 @@ say?
 
   Rey. Good my lord!                                    [Going.]
 
-  Pol. Observe his inclination in yourself.  
+  Pol. Observe his inclination in yourself.
 
   Rey. I shall, my lord.
 
@@ -2800,7 +2246,7 @@ say?
 
     To speak of horrors- he comes before me.
 
-  Pol. Mad for thy love?  
+  Pol. Mad for thy love?
 
   Oph. My lord, I do not know,
 
@@ -2840,7 +2286,7 @@ say?
 
     This is the very ecstasy of love,
 
-    Whose violent property fordoes itself  
+    Whose violent property fordoes itself
 
     And leads the will to desperate undertakings
 
@@ -2924,7 +2370,7 @@ cum aliis.
 
     To draw him on to pleasures, and to gather
 
-    So much as from occasion you may glean,  
+    So much as from occasion you may glean,
 
     Whether aught to us unknown afflicts him thus
 
@@ -2964,7 +2410,7 @@ cum aliis.
 
   King. Thanks, Rosencrantz and gentle Guildenstern.
 
-  Queen. Thanks, Guildenstern and gentle Rosencrantz.  
+  Queen. Thanks, Guildenstern and gentle Rosencrantz.
 
     And I beseech you instantly to visit
 
@@ -3004,7 +2450,7 @@ cum aliis.
 
     Hunts not the trail of policy so sure
 
-    As it hath us'd to do- that I have found  
+    As it hath us'd to do- that I have found
 
     The very cause of Hamlet's lunacy.
 
@@ -3044,7 +2490,7 @@ cum aliis.
 
     His nephew's levies; which to him appear'd
 
-    To be a preparation 'gainst the Polack,  
+    To be a preparation 'gainst the Polack,
 
     But better look'd into, he truly found
 
@@ -3084,7 +2530,7 @@ cum aliis.
 
   King. It likes us well;
 
-    And at our more consider'd time we'll read,  
+    And at our more consider'd time we'll read,
 
     Answer, and think upon this business.
 
@@ -3124,7 +2570,7 @@ cum aliis.
 
     And pity 'tis 'tis true. A foolish figure!
 
-    But farewell it, for I will use no art.  
+    But farewell it, for I will use no art.
 
     Mad let us grant him then. And now remains
 
@@ -3164,7 +2610,7 @@ cum aliis.
 
   Queen. Came this from Hamlet to her?
 
-  Pol. Good madam, stay awhile. I will be faithful.     [Reads.] 
+  Pol. Good madam, stay awhile. I will be faithful.     [Reads.]
 
 
 
@@ -3192,7 +2638,7 @@ believe
 
 him,
 
-                                                         
+
 
 HAMLET.'
 
@@ -3214,7 +2660,7 @@ HAMLET.'
 
   King. As of a man faithful and honourable.
 
-  Pol. I would fain prove so. But what might you think,  
+  Pol. I would fain prove so. But what might you think,
 
     When I had seen this hot love on the wing
 
@@ -3254,7 +2700,7 @@ HAMLET.'
 
     Into the madness wherein now he raves,
 
-    And all we mourn for.  
+    And all we mourn for.
 
   King. Do you think 'tis this?
 
@@ -3296,7 +2742,7 @@ this
 
     And he not from his reason fall'n thereon
 
-    Let me be no assistant for a state,  
+    Let me be no assistant for a state,
 
     But keep a farm and carters.
 
@@ -3338,7 +2784,7 @@ man
 
   Pol. That's very true, my lord.
 
-  Ham. For if the sun breed maggots in a dead dog, being a god  
+  Ham. For if the sun breed maggots in a dead dog, being a god
 
     kissing carrion- Have you a daughter?
 
@@ -3394,7 +2840,7 @@ hold it
 
     not honesty to have it thus set down; for you yourself, sir,
 
-    should be old as I am if, like a crab, you could go backward. 
+    should be old as I am if, like a crab, you could go backward.
 
 
 
@@ -3450,7 +2896,7 @@ my
 
   Ros. [to Polonius] God save you, sir!
 
-                                                Exit [Polonius]. 
+                                                Exit [Polonius].
 
 
 
@@ -3494,7 +2940,7 @@ Ah,
 
     hither?
 
-  Guil. Prison, my lord?  
+  Guil. Prison, my lord?
 
   Ham. Denmark's a prison.
 
@@ -3546,7 +2992,7 @@ my
 
     fay, I cannot reason.
 
-  Both. We'll wait upon you.  
+  Both. We'll wait upon you.
 
   Ham. No such matter! I will not sort you with the rest of my
 
@@ -3604,7 +3050,7 @@ a
 
 with
 
-    me, whether you were sent for or no.  
+    me, whether you were sent for or no.
 
   Ros. [aside to Guildenstern] What say you?
 
@@ -3664,7 +3110,7 @@ woman
 
     neither, though by your smiling you seem to say so.
 
-  Ros. My lord, there was no such stuff in my thoughts.  
+  Ros. My lord, there was no such stuff in my thoughts.
 
   Ham. Why did you laugh then, when I said 'Man delights not me'?
 
@@ -3712,7 +3158,7 @@ the
 
     city? Are they so follow'd?
 
-  Ros. No indeed are they not.  
+  Ros. No indeed are they not.
 
   Ham. How comes it? Do they grow rusty?
 
@@ -3768,7 +3214,7 @@ player
 
   Guil. O, there has been much throwing about of brains.
 
-  Ham. Do the boys carry it away?  
+  Ham. Do the boys carry it away?
 
   Ros. Ay, that they do, my lord- Hercules and his load too.
 
@@ -3822,7 +3268,7 @@ I
 
     know a hawk from a handsaw.
 
-  
+
 
                             Enter Polonius.
 
@@ -3870,7 +3316,7 @@ actor in
 
     tragical-historical, tragical-comical-historical-pastoral;
 
-scene  
+scene
 
     individable, or poem unlimited. Seneca cannot be too heavy,
 
@@ -3918,7 +3364,7 @@ are
 
  and then, you know,
 
-  
+
 
            'It came to pass, as most like it was.'
 
@@ -3972,7 +3418,7 @@ acted;
 
     or if it was, not above once; for the play, I remember,
 
-pleas'd  
+pleas'd
 
     not the million, 'twas caviary to the general; but it was (as
 
@@ -4026,7 +3472,7 @@ in
 
          When he lay couched in the ominous horse,
 
-         Hath now this dread and black complexion smear'd  
+         Hath now this dread and black complexion smear'd
 
          With heraldry more dismal. Head to foot
 
@@ -4066,7 +3512,7 @@ in
 
       Pyrrhus at Priam drives, in rage strikes wide;
 
-      But with the whiff and wind of his fell sword  
+      But with the whiff and wind of his fell sword
 
       Th' unnerved father falls. Then senseless Ilium,
 
@@ -4106,7 +3552,7 @@ in
 
       Now falls on Priam.
 
-      Out, out, thou strumpet Fortune! All you gods,  
+      Out, out, thou strumpet Fortune! All you gods,
 
       In general synod take away her power;
 
@@ -4150,7 +3596,7 @@ come to
 
       About her lank and all o'erteemed loins,
 
-      A blanket, in the alarm of fear caught up-  
+      A blanket, in the alarm of fear caught up-
 
       Who this had seen, with tongue in venom steep'd
 
@@ -4200,7 +3646,7 @@ a
 
     desert, and who should scape whipping? Use them after your
 
-own  
+own
 
     honour and dignity. The less they deserve, the more merit is
 
@@ -4246,7 +3692,7 @@ to
 
                             [Exeunt Rosencrantz and Guildenstern
 
-    Now I am alone.  
+    Now I am alone.
 
     O what a rogue and peasant slave am I!
 
@@ -4286,7 +3732,7 @@ to
 
     A dull and muddy-mettled rascal, peak
 
-    Like John-a-dreams, unpregnant of my cause,  
+    Like John-a-dreams, unpregnant of my cause,
 
     And can say nothing! No, not for a king,
 
@@ -4326,7 +3772,7 @@ to
 
     And fall a-cursing like a very drab,
 
-    A scullion!  
+    A scullion!
 
     Fie upon't! foh! About, my brain! Hum, I have heard
 
@@ -4436,7 +3882,7 @@ and Lords.
 
     Most free in his reply.
 
-  Queen. Did you assay him  
+  Queen. Did you assay him
 
     To any pastime?
 
@@ -4476,7 +3922,7 @@ and Lords.
 
     That he, as 'twere by accident, may here
 
-    Affront Ophelia.  
+    Affront Ophelia.
 
     Her father and myself (lawful espials)
 
@@ -4516,7 +3962,7 @@ and Lords.
 
     'Tis too much prov'd, that with devotion's visage
 
-    And pious action we do sugar o'er  
+    And pious action we do sugar o'er
 
     The Devil himself.
 
@@ -4556,7 +4002,7 @@ and Lords.
 
     The heartache, and the thousand natural shocks
 
-    That flesh is heir to. 'Tis a consummation  
+    That flesh is heir to. 'Tis a consummation
 
     Devoutly to be wish'd. To die- to sleep.
 
@@ -4596,7 +4042,7 @@ and Lords.
 
     Than fly to others that we know not of?
 
-    Thus conscience does make cowards of us all,  
+    Thus conscience does make cowards of us all,
 
     And thus the native hue of resolution
 
@@ -4636,7 +4082,7 @@ and Lords.
 
     Take these again; for to the noble mind
 
-    Rich gifts wax poor when givers prove unkind.  
+    Rich gifts wax poor when givers prove unkind.
 
     There, my lord.
 
@@ -4690,7 +4136,7 @@ accuse
 
     me of such things that it were better my mother had not borne
 
-me.  
+me.
 
     I am very proud, revengeful, ambitious; with more offences at
 
@@ -4744,7 +4190,7 @@ you
 
     amble, and you lisp; you nickname God's creatures and make
 
-your  
+your
 
     wantonness your ignorance. Go to, I'll no more on't! it hath
 
@@ -4788,7 +4234,7 @@ as
 
 
 
-  King. Love? his affections do not that way tend;  
+  King. Love? his affections do not that way tend;
 
     Nor what he spake, though it lack'd form a little,
 
@@ -4828,7 +4274,7 @@ as
 
     But if you hold it fit, after the play
 
-    Let his queen mother all alone entreat him  
+    Let his queen mother all alone entreat him
 
     To show his grief. Let her be round with him;
 
@@ -4912,7 +4358,7 @@ with
 
     nature: for anything so overdone is from the purpose of
 
-playing,  
+playing,
 
     whose end, both at the first and now, was and is, to hold, as
 
@@ -4976,7 +4422,7 @@ villanous
 
     and shows a most pitiful ambition in the fool that uses it.
 
-Go  
+Go
 
     make you ready.
 
@@ -5016,7 +4462,7 @@ Go
 
   Ham. Nay, do not think I flatter;
 
-    For what advancement may I hope from thee,  
+    For what advancement may I hope from thee,
 
     That no revenue hast but thy good spirits
 
@@ -5056,7 +4502,7 @@ Go
 
     One scene of it comes near the circumstance,
 
-    Which I have told thee, of my father's death.  
+    Which I have told thee, of my father's death.
 
     I prithee, when thou seest that act afoot,
 
@@ -5096,7 +4542,7 @@ Go
 
 
 
-  Ham. They are coming to the play. I must be idle.  
+  Ham. They are coming to the play. I must be idle.
 
     Get you a place.
 
@@ -5144,7 +4590,7 @@ there. Be
 
   Ham. Lady, shall I lie in your lap?
 
-                                  [Sits down at Ophelia's feet.] 
+                                  [Sits down at Ophelia's feet.]
 
 
 
@@ -5198,7 +4644,7 @@ life
 
 else
 
-    shall he suffer not thinking on, with the hobby-horse, whose 
+    shall he suffer not thinking on, with the hobby-horse, whose
 
 
 
@@ -5242,7 +4688,7 @@ Mutes,
 
   Oph. What means this, my lord?
 
-  Ham. Marry, this is miching malhecho; it means mischief.  
+  Ham. Marry, this is miching malhecho; it means mischief.
 
   Oph. Belike this show imports the argument of the play.
 
@@ -5286,7 +4732,7 @@ to
 
 
 
-              Enter [two Players as] King and Queen.  
+              Enter [two Players as] King and Queen.
 
 
 
@@ -5326,7 +4772,7 @@ to
 
       Where little fears grow great, great love grows there.
 
-    King. Faith, I must leave thee, love, and shortly too;  
+    King. Faith, I must leave thee, love, and shortly too;
 
       My operant powers their functions leave to do.
 
@@ -5366,7 +4812,7 @@ to
 
       Of violent birth, but poor validity;
 
-      Which now, like fruit unripe, sticks on the tree,  
+      Which now, like fruit unripe, sticks on the tree,
 
       But fall unshaken when they mellow be.
 
@@ -5406,7 +4852,7 @@ to
 
       Directly seasons him his enemy.
 
-      But, orderly to end where I begun,  
+      But, orderly to end where I begun,
 
       Our wills and fates do so contrary run
 
@@ -5446,7 +4892,7 @@ to
 
       The tedious day with sleep.
 
-    Queen. Sleep rock thy brain,  
+    Queen. Sleep rock thy brain,
 
                                                     [He] sleeps.
 
@@ -5494,7 +4940,7 @@ withers
 
                          Enter Lucianus.
 
-  
+
 
     This is one Lucianus, nephew to the King.
 
@@ -5540,7 +4986,7 @@ leave
 
   Ham. He poisons him i' th' garden for's estate. His name's
 
-Gonzago.  
+Gonzago.
 
     The story is extant, and written in very choice Italian. You
 
@@ -5586,7 +5032,7 @@ raz'd
 
          For thou dost know, O Damon dear,
 
-           This realm dismantled was  
+           This realm dismantled was
 
          Of Jove himself; and now reigns here
 
@@ -5626,7 +5072,7 @@ raz'd
 
   Ham. Ay, sir, what of him?
 
-  Guil. Is in his retirement, marvellous distemper'd.  
+  Guil. Is in his retirement, marvellous distemper'd.
 
   Ham. With drink, sir?
 
@@ -5682,7 +5128,7 @@ say,
 
     my mother. Therefore no more, but to the matter! My mother,
 
-you  
+you
 
     say-
 
@@ -5734,7 +5180,7 @@ something
 
 
 
-                     Enter the Players with recorders.  
+                     Enter the Players with recorders.
 
 
 
@@ -5790,7 +5236,7 @@ would
 
     lowest note to the top of my compass; and there is much
 
-music,  
+music,
 
     excellent voice, in this little organ, yet cannot you make it
 
@@ -5836,7 +5282,7 @@ the
 
   Ham. 'By-and-by' is easily said.- Leave me, friends.
 
-                                        [Exeunt all but Hamlet.] 
+                                        [Exeunt all but Hamlet.]
 
 
 
@@ -5914,7 +5360,7 @@ Enter King, Rosencrantz, and Guildenstern.
 
     The lives of many. The cesse of majesty
 
-    Dies not alone, but like a gulf doth draw  
+    Dies not alone, but like a gulf doth draw
 
     What's near it with it. It is a massy wheel,
 
@@ -5954,7 +5400,7 @@ Enter King, Rosencrantz, and Guildenstern.
 
     And, as you said, and wisely was it said,
 
-    'Tis meet that some more audience than a mother,  
+    'Tis meet that some more audience than a mother,
 
     Since nature makes them partial, should o'erhear
 
@@ -5994,7 +5440,7 @@ Enter King, Rosencrantz, and Guildenstern.
 
     And what's in prayer but this twofold force,
 
-    To be forestalled ere we come to fall,  
+    To be forestalled ere we come to fall,
 
     Or pardon'd being down? Then I'll look up;
 
@@ -6034,7 +5480,7 @@ Enter King, Rosencrantz, and Guildenstern.
 
     O limed soul, that, struggling to be free,
 
-    Art more engag'd! Help, angels! Make assay.  
+    Art more engag'd! Help, angels! Make assay.
 
     Bow, stubborn knees; and heart with strings of steel,
 
@@ -6074,7 +5520,7 @@ Enter King, Rosencrantz, and Guildenstern.
 
     To take him in the purging of his soul,
 
-    When he is fit and seasoned for his passage?  
+    When he is fit and seasoned for his passage?
 
     No.
 
@@ -6152,7 +5598,7 @@ coming.
 
   Ham. Go, go, you question with a wicked tongue.
 
-  Queen. Why, how now, Hamlet?  
+  Queen. Why, how now, Hamlet?
 
   Ham. What's the matter now?
 
@@ -6192,7 +5638,7 @@ coming.
 
   Ham. A bloody deed- almost as bad, good mother,
 
-    As kill a king, and marry with his brother.  
+    As kill a king, and marry with his brother.
 
   Queen. As kill a king?
 
@@ -6232,7 +5678,7 @@ coming.
 
     As false as dicers' oaths. O, such a deed
 
-    As from the body of contraction plucks  
+    As from the body of contraction plucks
 
     The very soul, and sweet religion makes
 
@@ -6272,7 +5718,7 @@ coming.
 
     Here is your husband, like a mildew'd ear
 
-    Blasting his wholesome brother. Have you eyes?  
+    Blasting his wholesome brother. Have you eyes?
 
     Could you on this fair mountain leave to feed,
 
@@ -6312,7 +5758,7 @@ coming.
 
     To flaming youth let virtue be as wax
 
-    And melt in her own fire. Proclaim no shame  
+    And melt in her own fire. Proclaim no shame
 
     When the compulsive ardour gives the charge,
 
@@ -6352,7 +5798,7 @@ coming.
 
     That from a shelf the precious diadem stole
 
-    And put it in his pocket!  
+    And put it in his pocket!
 
   Queen. No more!
 
@@ -6392,7 +5838,7 @@ coming.
 
   Ham. How is it with you, lady?
 
-  Queen. Alas, how is't with you,  
+  Queen. Alas, how is't with you,
 
     That you do bend your eye on vacancy,
 
@@ -6432,7 +5878,7 @@ coming.
 
   Queen. No, nothing but ourselves.
 
-  Ham. Why, look you there! Look how it steals away!  
+  Ham. Why, look you there! Look how it steals away!
 
     My father, in his habit as he liv'd!
 
@@ -6472,7 +5918,7 @@ coming.
 
     And do not spread the compost on the weeds
 
-    To make them ranker. Forgive me this my virtue;  
+    To make them ranker. Forgive me this my virtue;
 
     For in the fatness of these pursy times
 
@@ -6512,7 +5958,7 @@ coming.
 
     And when you are desirous to be blest,
 
-    I'll blessing beg of you.- For this same lord,  
+    I'll blessing beg of you.- For this same lord,
 
     I do repent; but heaven hath pleas'd it so,
 
@@ -6552,7 +5998,7 @@ coming.
 
     Would from a paddock, from a bat, a gib
 
-    Such dear concernings hide? Who would do so?  
+    Such dear concernings hide? Who would do so?
 
     No, in despite of sense and secrecy,
 
@@ -6592,7 +6038,7 @@ coming.
 
     And blow them at the moon. O, 'tis most sweet
 
-    When in one line two crafts directly meet.  
+    When in one line two crafts directly meet.
 
     This man shall set me packing.
 
@@ -6684,7 +6130,7 @@ Enter King and Queen, with Rosencrantz and Guildenstern.
 
     His liberty is full of threats to all-
 
-    To you yourself, to us, to every one.  
+    To you yourself, to us, to every one.
 
     Alas, how shall this bloody deed be answer'd?
 
@@ -6724,7 +6170,7 @@ Enter King and Queen, with Rosencrantz and Guildenstern.
 
              Enter Rosencrantz and Guildenstern.
 
-  
+
 
     Friends both, go join you with some further aid.
 
@@ -6814,7 +6260,7 @@ son
 
   Ham. Ay, sir; that soaks up the King's countenance, his
 
-rewards,  
+rewards,
 
     his authorities. But such officers do the King best service
 
@@ -6906,7 +6352,7 @@ Enter King.
 
   Ros. Where the dead body is bestow'd, my lord,
 
-    We cannot get from him.  
+    We cannot get from him.
 
   King. But where is he?
 
@@ -6956,7 +6402,7 @@ eat
 
     of the fish that hath fed of that worm.
 
-  King. What dost thou mean by this?  
+  King. What dost thou mean by this?
 
   Ham. Nothing but to show you how a king may go a progress
 
@@ -7004,7 +6450,7 @@ up
 
   King. Ay, Hamlet.
 
-  Ham. Good.  
+  Ham. Good.
 
   King. So is it, if thou knew'st our purposes.
 
@@ -7046,7 +6492,7 @@ Exit.
 
     By letters congruing to that effect,
 
-    The present death of Hamlet. Do it, England;  
+    The present death of Hamlet. Do it, England;
 
     For like the hectic in my blood he rages,
 
@@ -7126,7 +6572,7 @@ Enter Fortinbras with his Army over the stage.
 
   Ham. How purpos'd, sir, I pray you?
 
-  Capt. Against some part of Poland.  
+  Capt. Against some part of Poland.
 
   Ham. Who commands them, sir?
 
@@ -7166,7 +6612,7 @@ Enter Fortinbras with his Army over the stage.
 
   Ros. Will't please you go, my lord?
 
-  Ham. I'll be with you straight. Go a little before.  
+  Ham. I'll be with you straight. Go a little before.
 
                                         [Exeunt all but Hamlet.]
 
@@ -7206,7 +6652,7 @@ Enter Fortinbras with his Army over the stage.
 
     Whose spirit, with divine ambition puff'd,
 
-    Makes mouths at the invisible event,  
+    Makes mouths at the invisible event,
 
     Exposing what is mortal and unsure
 
@@ -7312,7 +6758,7 @@ Enter Horatio, Queen, and a Gentleman.
 
     Dangerous conjectures in ill-breeding minds.
 
-  Queen. Let her come in.  
+  Queen. Let her come in.
 
                                                [Exit Gentleman.]
 
@@ -7352,7 +6798,7 @@ Enter Horatio, Queen, and a Gentleman.
 
 
 
-    (Sings) He is dead and gone, lady,  
+    (Sings) He is dead and gone, lady,
 
               He is dead and gone;
 
@@ -7394,7 +6840,7 @@ Enter Horatio, Queen, and a Gentleman.
 
   Oph. Well, God dild you! They say the owl was a baker's
 
-daughter.  
+daughter.
 
     Lord, we know what we are, but know not what we may be. God
 
@@ -7438,7 +6884,7 @@ what
 
 
 
-    [Sings] By Gis and by Saint Charity,  
+    [Sings] By Gis and by Saint Charity,
 
               Alack, and fie for shame!
 
@@ -7482,7 +6928,7 @@ sweet
 
   King. Follow her close; give her good watch, I pray you.
 
-                                                 [Exit Horatio.] 
+                                                 [Exit Horatio.]
 
 
 
@@ -7524,7 +6970,7 @@ sweet
 
     In ear and ear. O my dear Gertrude, this,
 
-    Like to a murd'ring piece, in many places  
+    Like to a murd'ring piece, in many places
 
     Give me superfluous death.                  A noise within.
 
@@ -7564,7 +7010,7 @@ sweet
 
                                                  A noise within.
 
-  Queen. How cheerfully on the false trail they cry!  
+  Queen. How cheerfully on the false trail they cry!
 
     O, this is counter, you false Danish dogs!
 
@@ -7604,7 +7050,7 @@ sweet
 
     That thy rebellion looks so giantlike?
 
-    Let him go, Gertrude. Do not fear our person.  
+    Let him go, Gertrude. Do not fear our person.
 
     There's such divinity doth hedge a king
 
@@ -7644,7 +7090,7 @@ sweet
 
     And for my means, I'll husband them so well
 
-    They shall go far with little.  
+    They shall go far with little.
 
   King. Good Laertes,
 
@@ -7684,7 +7130,7 @@ sweet
 
 
 
-                      Enter Ophelia.  
+                      Enter Ophelia.
 
 
 
@@ -7724,7 +7170,7 @@ sweet
 
   Laer. Hadst thou thy wits, and didst persuade revenge,
 
-    It could not move thus.  
+    It could not move thus.
 
   Oph. You must sing 'A-down a-down, and you call him a-down-a.'
 
@@ -7778,7 +7224,7 @@ father
 
          And will he not come again?
 
-           No, no, he is dead;  
+           No, no, he is dead;
 
            Go to thy deathbed;
 
@@ -7818,7 +7264,7 @@ Exit.
 
     Our crown, our life, and all that we call ours,
 
-    To you in satisfaction; but if not,  
+    To you in satisfaction; but if not,
 
     Be you content to lend your patience to us,
 
@@ -7926,7 +7372,7 @@ overlook'd
 
     this, give these fellows some means to the King. They have
 
-    letters for him. Ere we were two days old at sea, a pirate of 
+    letters for him. Ere we were two days old at sea, a pirate of
 
 
 
@@ -8050,7 +7496,7 @@ Enter King and Laertes.
 
     She's so conjunctive to my life and soul
 
-    That, as the star moves not but in his sphere,  
+    That, as the star moves not but in his sphere,
 
     I could not but by her. The other motive
 
@@ -8090,7 +7536,7 @@ Enter King and Laertes.
 
     I lov'd your father, and we love ourself,
 
-    And that, I hope, will teach you to imagine-  
+    And that, I hope, will teach you to imagine-
 
 
 
@@ -8132,7 +7578,7 @@ your
 
     What should this mean? Are all the rest come back?
 
-    Or is it some abuse, and no such thing?  
+    Or is it some abuse, and no such thing?
 
   Laer. Know you the hand?
 
@@ -8172,7 +7618,7 @@ your
 
     And for his death no wind shall breathe
 
-    But even his mother shall uncharge the practice  
+    But even his mother shall uncharge the practice
 
     And call it accident.
 
@@ -8212,7 +7658,7 @@ your
 
     I have seen myself, and serv'd against, the French,
 
-    And they can well on horseback; but this gallant  
+    And they can well on horseback; but this gallant
 
     Had witchcraft in't. He grew unto his seat,
 
@@ -8252,7 +7698,7 @@ your
 
     He swore had neither motion, guard, nor eye,
 
-    If you oppos'd them. Sir, this report of his  
+    If you oppos'd them. Sir, this report of his
 
     Did Hamlet so envenom with his envy
 
@@ -8292,7 +7738,7 @@ your
 
     We should do when we would; for this 'would' changes,
 
-    And hath abatements and delays as many  
+    And hath abatements and delays as many
 
     As there are tongues, are hands, are accidents;
 
@@ -8332,7 +7778,7 @@ your
 
     A sword unbated, and, in a pass of practice,
 
-    Requite him for your father.  
+    Requite him for your father.
 
   Laer. I will do't!
 
@@ -8372,7 +7818,7 @@ your
 
     I ha't!
 
-    When in your motion you are hot and dry-  
+    When in your motion you are hot and dry-
 
     As make your bouts more violent to that end-
 
@@ -8412,7 +7858,7 @@ your
 
     There on the pendant boughs her coronet weeds
 
-    Clamb'ring to hang, an envious sliver broke,  
+    Clamb'ring to hang, an envious sliver broke,
 
     When down her weedy trophies and herself
 
@@ -8452,7 +7898,7 @@ your
 
     But that this folly douts it.                          Exit.
 
-  King. Let's follow, Gertrude.  
+  King. Let's follow, Gertrude.
 
     How much I had to do to calm his rage I
 
@@ -8548,7 +7994,7 @@ come to
 
 not
 
-    guilty of his own death shortens not his own life.  
+    guilty of his own death shortens not his own life.
 
   Other. But is this law?
 
@@ -8602,7 +8048,7 @@ the
 
     shipwright, or the carpenter?
 
-  Other. The gallows-maker; for that frame outlives a thousand  
+  Other. The gallows-maker; for that frame outlives a thousand
 
     tenants.
 
@@ -8648,7 +8094,7 @@ will
 
     liquor.
 
-                                            [Exit Second Clown.] 
+                                            [Exit Second Clown.]
 
 
 
@@ -8694,7 +8140,7 @@ daintier
 
                                             [Throws up a skull.]
 
-  
+
 
   Ham. That skull had a tongue in it, and could sing once. How
 
@@ -8754,7 +8200,7 @@ the
 
            For and a shrouding sheet;
 
-         O, a Pit of clay for to be made  
+         O, a Pit of clay for to be made
 
            For such a guest is meet.
 
@@ -8820,7 +8266,7 @@ no
 
   Ham. They are sheep and calves which seek out assurance in
 
-that. I  
+that. I
 
     will speak to this fellow. Whose grave's this, sirrah?
 
@@ -8870,7 +8316,7 @@ years
 
     I have taken note of it, the age is grown so picked that the
 
-toe  
+toe
 
     of the peasant comes so near the heel of the courtier he
 
@@ -8922,7 +8368,7 @@ mad as
 
   Clown. Why, here in Denmark. I have been sexton here, man and
 
-boy  
+boy
 
     thirty years.
 
@@ -8980,7 +8426,7 @@ of
 
   Ham. Let me see. [Takes the skull.] Alas, poor Yorick! I knew
 
-him,  
+him,
 
     Horatio. A fellow of infinite jest, of most excellent fancy.
 
@@ -9034,7 +8480,7 @@ earth?
 
     stopping a bunghole?
 
-  Hor. 'Twere to consider too curiously, to consider so.  
+  Hor. 'Twere to consider too curiously, to consider so.
 
   Ham. No, faith, not a jot; but to follow him thither with
 
@@ -9080,7 +8526,7 @@ he
 
     Couch we awhile, and mark.
 
-                                         [Retires with Horatio.] 
+                                         [Retires with Horatio.]
 
 
 
@@ -9122,7 +8568,7 @@ he
 
   Laer. Lay her i' th' earth;
 
-    And from her fair and unpolluted flesh  
+    And from her fair and unpolluted flesh
 
     May violets spring! I tell thee, churlish priest,
 
@@ -9162,7 +8608,7 @@ he
 
     Of blue Olympus.
 
-  Ham. [comes forward] What is he whose grief  
+  Ham. [comes forward] What is he whose grief
 
     Bears such an emphasis? whose phrase of sorrow
 
@@ -9202,7 +8648,7 @@ he
 
     Until my eyelids will no longer wag.
 
-  Queen. O my son, what theme?  
+  Queen. O my son, what theme?
 
   Ham. I lov'd Ophelia. Forty thousand brothers
 
@@ -9242,7 +8688,7 @@ he
 
     Anon, as patient as the female dove
 
-    When that her golden couplets are disclos'd,  
+    When that her golden couplets are disclos'd,
 
     His silence will sit drooping.
 
@@ -9328,7 +8774,7 @@ Enter Hamlet and Horatio.
 
     Finger'd their packet, and in fine withdrew
 
-    To mine own room again; making so bold  
+    To mine own room again; making so bold
 
     (My fears forgetting manners) to unseal
 
@@ -9368,7 +8814,7 @@ Enter Hamlet and Horatio.
 
     A baseness to write fair, and labour'd much
 
-    How to forget that learning; but, sir, now  
+    How to forget that learning; but, sir, now
 
     It did me yeoman's service. Wilt thou know
 
@@ -9408,7 +8854,7 @@ Enter Hamlet and Horatio.
 
     Subscrib'd it, gave't th' impression, plac'd it safely,
 
-    The changeling never known. Now, the next day  
+    The changeling never known. Now, the next day
 
     Was our sea-fight; and what to this was sequent
 
@@ -9448,7 +8894,7 @@ Enter Hamlet and Horatio.
 
   Hor. It must be shortly known to him from England
 
-    What is the issue of the business there.  
+    What is the issue of the business there.
 
   Ham. It will be short; the interim is mine,
 
@@ -9494,7 +8940,7 @@ be
 
 'Tis
 
-    a chough; but, as I say, spacious in the possession of dirt. 
+    a chough; but, as I say, spacious in the possession of dirt.
 
 
 
@@ -9556,7 +9002,7 @@ continent of
 
     what part a gentleman would see.
 
-  Ham. Sir, his definement suffers no perdition in you; though, I 
+  Ham. Sir, his definement suffers no perdition in you; though, I
 
 
 
@@ -9612,7 +9058,7 @@ another
 
 not
 
-    much approve me. Well, sir?  
+    much approve me. Well, sir?
 
   Osr. You are not ignorant of what excellence Laertes is-
 
@@ -9660,7 +9106,7 @@ margent
 
     carry cannon by our sides. I would it might be hangers till
 
-then.  
+then.
 
     But on! Six Barbary horses against six French swords, their
 
@@ -9710,7 +9156,7 @@ my
 
     himself; there are no tongues else for's turn.
 
-  Hor. This lapwing runs away with the shell on his head.  
+  Hor. This lapwing runs away with the shell on his head.
 
   Ham. He did comply with his dug before he suck'd it. Thus has
 
@@ -9768,7 +9214,7 @@ provided
 
   Lord. The Queen desires you to use some gentle entertainment to
 
-    Laertes before you fall to play.  
+    Laertes before you fall to play.
 
   Ham. She well instructs me.
 
@@ -9822,7 +9268,7 @@ leaves,
 
               Attendants with foils and gauntlets.
 
-               A table and flagons of wine on it.  
+               A table and flagons of wine on it.
 
 
 
@@ -9862,7 +9308,7 @@ leaves,
 
     Let my disclaiming from a purpos'd evil
 
-    Free me so far in your most generous thoughts  
+    Free me so far in your most generous thoughts
 
     That I have shot my arrow o'er the house
 
@@ -9902,7 +9348,7 @@ leaves,
 
   Laer. You mock me, sir.
 
-  Ham. No, by this hand.  
+  Ham. No, by this hand.
 
   King. Give them the foils, young Osric. Cousin Hamlet,
 
@@ -9942,7 +9388,7 @@ leaves,
 
     And let the kettle to the trumpet speak,
 
-    The trumpet to the cannoneer without,  
+    The trumpet to the cannoneer without,
 
     The cannons to the heavens, the heaven to earth,
 
@@ -9982,7 +9428,7 @@ leaves,
 
   Queen. He's fat, and scant of breath.
 
-    Here, Hamlet, take my napkin, rub thy brows.  
+    Here, Hamlet, take my napkin, rub thy brows.
 
     The Queen carouses to thy fortune, Hamlet.
 
@@ -10022,7 +9468,7 @@ leaves,
 
   King. Part them! They are incens'd.
 
-  Ham. Nay come! again!                         The Queen falls. 
+  Ham. Nay come! again!                         The Queen falls.
 
 
 
@@ -10064,7 +9510,7 @@ leaves,
 
     Never to rise again. Thy mother's poison'd.
 
-    I can no more. The King, the King's to blame.  
+    I can no more. The King, the King's to blame.
 
   Ham. The point envenom'd too?
 
@@ -10104,7 +9550,7 @@ leaves,
 
     But let it be. Horatio, I am dead;
 
-    Thou liv'st; report me and my cause aright  
+    Thou liv'st; report me and my cause aright
 
     To the unsatisfied.
 
@@ -10144,7 +9590,7 @@ leaves,
 
     I cannot live to hear the news from England,
 
-    But I do prophesy th' election lights  
+    But I do prophesy th' election lights
 
     On Fortinbras. He has my dying voice.
 
@@ -10184,7 +9630,7 @@ leaves,
 
   Ambassador. The sight is dismal;
 
-    And our affairs from England come too late.  
+    And our affairs from England come too late.
 
     The ears are senseless that should give us hearing
 
@@ -10224,7 +9670,7 @@ leaves,
 
     Truly deliver.
 
-  Fort. Let us haste to hear it,  
+  Fort. Let us haste to hear it,
 
     And call the noblest to the audience.
 
@@ -10264,7 +9710,7 @@ leaves,
 
             Exeunt marching; after the which a peal of ordnance
 
-                                                   are shot off. 
+                                                   are shot off.
 
 
 
@@ -10273,46 +9719,3 @@ leaves,
 
 
 THE END
-
-
-
-
-
-
-
-
-
-
-
-<<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
-
-SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
-
-PROVIDED BY PROJECT GUTENBERG ETEXT OF CARNEGIE MELLON UNIVERSITY
-
-WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
-
-DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
-
-PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
-
-COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
-
-SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
-
-
-
-
-
-
-
-
-
-
-
-End of this Etext of The Complete Works of William Shakespeare, The Tragedy of
-
-Hamlet, Prince of Denmark
-
-
-
