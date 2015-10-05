@@ -74,3 +74,88 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
 	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
 	at java.lang.Thread.run(Unknown Source)
+!SESSION 2015-10-04 21:34:06.283 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-04 21:34:22.232
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Branden'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-10-05 11:35:11.078 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/Branden/git/project3DocumentAnalysis/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-05 11:36:00.749
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Branden'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:22:44.201
+!MESSAGE Wrote threads call stacks to C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:22:44.400
+!MESSAGE Heap C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof contains 177,562 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:22:45.667
+!MESSAGE Removed 172,322 unreachable objects using 3,423,208 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:32:16.930
+!MESSAGE Reparsing heap dump file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof' modified at 10/5/15, 12:31 PM as it is newer than index file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.index' modified at 10/5/15, 12:22 PM
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:32:17.024
+!MESSAGE Wrote threads call stacks to C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:32:17.048
+!MESSAGE Heap C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof contains 96,605 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:32:17.551
+!MESSAGE Removed 91,387 unreachable objects using 1,722,344 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:47:57.430
+!MESSAGE Reparsing heap dump file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof' modified at 10/5/15, 12:44 PM as it is newer than index file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.index' modified at 10/5/15, 12:32 PM
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:47:57.792
+!MESSAGE Wrote threads call stacks to C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:47:57.917
+!MESSAGE Heap C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof contains 1,122,234 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:47:59.760
+!MESSAGE Removed 1,116,991 unreachable objects using 23,273,336 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:55:57.692
+!MESSAGE Reparsing heap dump file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof' modified at 10/5/15, 12:54 PM as it is newer than index file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.index' modified at 10/5/15, 12:47 PM
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:55:57.762
+!MESSAGE Wrote threads call stacks to C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:55:57.770
+!MESSAGE Heap C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof contains 180,477 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:55:58.103
+!MESSAGE Removed 175,219 unreachable objects using 3,484,112 bytes
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:59:52.787
+!MESSAGE Reparsing heap dump file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof' modified at 10/5/15, 12:57 PM as it is newer than index file 'C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.index' modified at 10/5/15, 12:55 PM
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:59:52.828
+!MESSAGE Wrote threads call stacks to C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:59:52.833
+!MESSAGE Heap C:\Users\Branden\git\project3DocumentAnalysis\Project3\java.hprof contains 95,034 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2015-10-05 12:59:53.020
+!MESSAGE Removed 89,796 unreachable objects using 1,689,104 bytes

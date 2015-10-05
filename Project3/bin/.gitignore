@@ -1,6 +1,7 @@
 /AVLTree.class
 /BinarySearchTree$BSTNode.class
 /BinarySearchTree.class
+/Correlator.class
 /DataCount.class
 /DataCounter.class
 /DocCorrelator.class
@@ -11,8 +12,5 @@
 /TestBinarySearchTree.class
 /WordCount.class
 /WordFreq.class
-/count.pl
-/count.sh
 /hamlet.txt
 /the-new-atlantis.txt
-/Correlator.class

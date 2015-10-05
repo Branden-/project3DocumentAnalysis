@@ -8,4 +8,5 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Project3"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Project3"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-agentlib:hprof=heap=dump,format=b"/>
 </launchConfiguration>
