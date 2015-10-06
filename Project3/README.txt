@@ -1,6 +1,25 @@
+Included in the `src` folder is file called Project3.java. This is our
+own tester file for the project. At the end of this file is way to run
+the project as if you are running from the commandline and will save
+you time if you prefer not to use the commandline. Otherwise we implemented
+the WordCount.java and Correlator.java which can be run from the commandline
+as requested in the project.
+
+Below you will find the questions from the assignment along with our answers.
+If more info is needed, or you need help running our project you can contact
+us directly:
+
+Branden Andersen
+email: branden.andersen@sjsu.edu
+Mobile: 650 943-3999
+
+Ahn Ho
+email: anhqpho@gmail.com
+
+
 1.  Who is in your group?
 
-  Anh Ho and Branden Andersen
+    Anh Ho and Branden Andersen
 
 2.  How long did the project take?
 
