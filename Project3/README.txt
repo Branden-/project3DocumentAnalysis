@@ -1,4 +1,4 @@
-Included in the `src` folder is file called Project3.java. This is our
+Included in the `src` folder is a file called Project3.java. This is our
 own tester file for the project. At the end of this file is way to run
 the project as if you are running from the commandline and will save
 you time if you prefer not to use the commandline. Otherwise we implemented
