@@ -13,7 +13,7 @@ Branden Andersen
 email: branden.andersen@sjsu.edu
 Mobile: 650 943-3999
 
-Ahn Ho
+Anh Ho
 email: anhqpho@gmail.com
 
 
