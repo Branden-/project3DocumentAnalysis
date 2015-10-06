@@ -38,7 +38,7 @@ public class Project3 {
 	}
 	
 	static void testDocCorrelator(){
-		String[] cmd = {"completeWorksofShakespeare.txt", "EssayOfSirFrancisBacon.txt", "-b"};
+		String[] cmd = {"completeWorksofShakespeare.txt", "hamlet.txt", "-h"};
 		DocCorrelator.main(cmd);
 	}
 	

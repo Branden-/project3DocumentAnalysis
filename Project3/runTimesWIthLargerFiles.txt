@@ -21,3 +21,4 @@ It took 11 seconds tokenize, sort and count the words in the file EssayOfSirFran
 cisBacon.txt
 
 perl script
+Tokenizing, sorting and printing took 12 seconds

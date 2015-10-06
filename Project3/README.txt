@@ -99,7 +99,7 @@
     (all formal analysis should answer something similar):
     * What are you measuring?
     * What is the definition of "better" given your measurement?
-    * Why is the measurment interesting in determining which is the
+    * Why is the measurement interesting in determining which is the
       superior algorithm for this project?
     * What was your method of benchmarking?
     * What were the sources of errors?
@@ -134,7 +134,120 @@
     In terms of better, for both measurements smaller was always better.
     If the data structure used less memory, then it was better for memory.
     If the data structure took less time to execute than the other data
-    structures than it was better. 
+    structures than it was better.
+
+    These measurements are interesting because typically in computer
+    science we are concerned with efficiency, that is "does it run fast
+    with as few resources as possible." If something runs fast and uses
+    little memory (or uses less memory compared to other methods), then
+    that program or data structure is desirable since it will probably
+    solve the problem we are trying to solve much faster. Therefore
+    we measured memory usage and execution time as our metrics. It should
+    be noted that coding difficulty can also be a consideration, and
+    was discussed earlier. For this part of the analysis we will only
+    be concerned with the hard metrics of time and memory usage.
+
+    For bench marking the execution time, we recorded the time it took
+    to execute the DataCounter dictionary plus the time it took to
+    print the two lists with their frequency. The Perl script did slightly
+    less work as it only analyzed one document, but it was timed for analysis
+    plus the time it took for it to print all the frequencies of the
+    words. Therefore we would expect the Perl script to be
+    much more faster or at least slightly faster than our java code.
+
+    For the memory usage, we created a memory dump file at the end of
+    program execution and used Eclipse Memory analyzer plugin to view the
+    results of the dump file. We did not do a memory analysis of the Perl
+    script.
+
+    Our main source of error in the execution time benchmark is the fact
+    we also timed the printing of the dictionary with the frequencies but
+    since we did this with everything we benchmarked this extra execution
+    time will cancel out when we compare it against the different data
+    structures. We also did some timing of just the printing of the
+    dictionary with frequencies and it took approximately 11 seconds in
+    the case we will be discussing in the next paragraph. Another source
+    of error in timing the execution time is we converted nano seconds
+    to seconds in Java and only measured seconds when we ran the Perl
+    script so there is some quantization error. To makes for this error,
+    we ran very large files (the complete works of Shakespeare) so that
+    any delay in execution would be able to be measured on the order of
+    seconds and not milli or nano seconds. For the memory measurement,
+    again we were measuring all the measuring used by the program program
+    not just the memory used by the data structures. The extra memory
+    used should be controlled for by the fact we used the same files and
+    therefore the difference in measurement should be solely because of
+    the efficiency of the data structure.
+
+    For the all bench marking of the java program, we used two files in
+    the same directory as this README.txt file. We analyzed the file
+    completeWorksofShakespeare.txt (file 1) and EssayOfSirFrancisBacon.txt
+    (file 2). The results are shown in table 1.
+
+    Table 1. Results from execution time bench mark.
+    -----------------------------------------------------------
+    | Name of Data Strucutre |  time (file 1) | time (file 2) |
+    |                        |  [seconds]     | [seconds]     |
+    |------------------------|----------------|---------------|
+    |  Hash Table            |       12       |       11      |
+    |------------------------|----------------|---------------|
+    |  Binary Search Tree    |       12       |       11      |
+    |------------------------|----------------|---------------|
+    |  AVL Tree              |       370      |       11      |
+    |------------------------|----------------|---------------|
+    |  Perl Script*          |       12       |       N/A     |
+    -----------------------------------------------------------
+    *NOTE: Perl script only examined one large file
+
+    For the memory analysis, we were mainly concerned with just the data
+    structures we implemented therefore we did not analyze the memory
+    usage of the Perl Scipt. Average memory usage based on using the
+    same two files used for the execution time bench mark. Results
+    can be seen in table 2.
+
+    Table 2. Results from the memory usage bench mark.
+    -------------------------------------------
+    | Name of Data Strucutre |  Memory Used   |
+    |                        |  [kiloBytes]   |
+    |------------------------|----------------|
+    |  Hash Table            |       229.9    |
+    |------------------------|----------------|
+    |  Binary Search Tree    |       228.8    |
+    |------------------------|----------------|
+    |  AVL Tree              |       229.6    |
+    -------------------------------------------
+
+    From our results we interpret that in almost all respects the best
+    data structure to implement when both execution time and memory usage
+    is considered is a hash table. The Perl script ran as fast as the
+    fastest data structures but had less to analyze and less to print
+    there we can probably conclude the Perl script is fast not as fast
+    as running something in Jave.
+
+    The hash table data structure did use more memory than the other data
+    structures, but the memory difference was measure in kilobytes and
+    considering most modern programs are measured in megabytes or even
+    gigabytes of memory we can consider the difference in memory usage
+    as negligible. If the device that will be primarily running the code
+    is a microcontroller, then this memory difference might be a concern.
+
+    So again we conclude that for most programming purposes, the best data
+    structure to use for quick access is a hash table. If it is desired
+    that the data structure sort the data while also holding the data,
+    then a Binary search tree or an AVL tree would be the suggested data
+    structure.
+
+    For future research it may be interesting to use a binary search tree
+    instead of a linked list for collisions with a hashtable.
 
 9.  What did you enjoy about this assignment? What did you hate? Could we
     have done anything better?
+
+    We enjoyed programming the project and learning a little more about
+    how to do some command line stuff. The write up, although necessary
+    for reflecting and learning, was a bit tidious.
+
+    For the future, it is suggested that some tutorial files or pdf's
+    are given on how to use the command line, coding in Perl, and Bash scripts.
+    Implementing a timing function for us in the Perl and Bash
+    scripts would have been very helpful.
