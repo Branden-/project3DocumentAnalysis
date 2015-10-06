@@ -95,7 +95,7 @@
 8.  Writeup your benchmarks (this is long). Your mission is to convince
     us that your benchmark makes sense and that we should be interested
     in it if we are trying to ascertain which data structure is better
-    suited for your input. You wil need to answer at least the following
+    suited for your input. You will need to answer at least the following
     (all formal analysis should answer something similar):
     * What are you measuring?
     * What is the definition of "better" given your measurement?
@@ -107,6 +107,34 @@
     * How did you interpret your results?
     * What were your conclusions?
     * Are there any interesting directions for future study?
+
+    For the bench marks we were primarily interested in two things,
+    speed of
+    execution (how much time did it take to execute the code with a particular
+    data structure) and how much memory
+    was used by the application for each particular data structure. To measure
+    the time for execution in the java code, a start time variable
+    was created and  assigned a value from System.nanoTime(). The end time
+    was recorded using the same method at the end of printing the
+    output as required by the assignment. We chose to record the time after
+    printing the output because we were running our comparison against
+    Perl script as well which was similarly timed before and after the
+    tokenizing, sorting, and printing of the output was done. So in our
+    timing there was some overhead due to the printing to the command window.
+    For analyzing the memory used we used a plugin called the Eclipse
+    Memory Analyzer. Our first step to use the plugin was to add a commandline
+    argument to the
+    JVM which made the JVM output a heap memory dump. The commandline used
+    was: `-agentlib:hprof=heap=dump,format=b`. The dump file (file extension
+    .hprof) was then opened inside eclipse and the plugin did its job
+    analyzing the memory dump and putting it into a pie chart. We then compared
+    the memory dump of all the different data structures implemented in the
+    assignment.
+
+    In terms of better, for both measurements smaller was always better.
+    If the data structure used less memory, then it was better for memory.
+    If the data structure took less time to execute than the other data
+    structures than it was better. 
 
 9.  What did you enjoy about this assignment? What did you hate? Could we
     have done anything better?
